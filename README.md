@@ -1,5 +1,5 @@
 # datasketch-1
-Correlation between an individual stock and the entire market 
+Correlation between Shopify and S&P. 
 
 Made with Python and Plotly in Jupyter Notebook. Github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph.
 
